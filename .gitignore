@@ -1,0 +1,5 @@
+autoload/**
+ycm_build
+.netrwhist
+**/*.un~
+**/*swp

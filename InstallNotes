@@ -1,0 +1,11 @@
+vim-jsbeautify
+-----------------
+npm install -g js-beautify
+cd ~/.vim/bundle/vim-jsbeautify && git submodule update --init --recursive
+
+YCM
+-----
+npm install -g typescript
+cd ~/.vim/bundle/YouCompleteMe
+git submodule update --init --recursive
+            
